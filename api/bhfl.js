@@ -10,7 +10,7 @@ export default function handler(req, res) {
         });
       }
 
-      // Replace with your details
+
       const FULL_NAME = "ayush_pandey";
       const DOB = "22122004"; // ddmmyyyy
       const EMAIL = "ayushpandey.kdl@gmail.com";
