@@ -1,0 +1,6 @@
+{
+  "name": "vit-bfhl",
+  "version": "1.0.0",
+  "main": "api/bfhl.js",
+  "license": "MIT"
+}
